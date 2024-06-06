@@ -452,3 +452,5 @@ result = np.hstack((ini_array, np.atleast_2d(column_to_be_added).T))
 
 # printing result
 print("\nresultant array\n", str(result))
+
+
